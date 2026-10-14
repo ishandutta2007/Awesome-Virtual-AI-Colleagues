@@ -35,6 +35,7 @@ Whether you are evaluating production-ready **commercial SaaS platforms** or eng
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ AI Workforce Architecture Frameworks](#️-ai-workforce-architecture-frameworks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer & Compliance](#️-disclaimer--compliance)
 - [⭐ Star History](#-star-history)
 
@@ -163,6 +164,27 @@ Contributions are welcome and vital to maintaining this directory!
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and supporting **Awesome Virtual AI Colleagues**! 🌟
+
+If you found this ecosystem directory valuable for your research, team, or project, please consider showing your support:
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** new open-source projects or SaaS platform updates.
+- 📢 **Share** this repository with fellow engineers, founders, and AI practitioners on Twitter/X, LinkedIn, and Discord.
+- ☕ **Buy a coffee / Sponsor**: If you would like to support ongoing maintenance and curation, you can sponsor directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
 ## ⚖️ Disclaimer & Compliance
 
 - 🛡️ **Community Curated:** This list is curated for technical research and architectural comparison. Listing does not constitute formal commercial endorsement.
@@ -174,11 +196,10 @@ Contributions are welcome and vital to maintaining this directory!
 ## ⭐ Star History
 
 <p align="center">
-  <a href="https://star-history.com/#ishandutta2007/Awesome-Virtual-AI-Colleagues&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Virtual-AI-Colleagues&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Virtual-AI-Colleagues&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Virtual-AI-Colleagues&type=Date" width="100%" />
-    </picture>
+  <a href="https://star-history.dera.page/#ishandutta2007/Awesome-Virtual-AI-Colleagues&type=date&legend=top-left">
+    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Virtual-AI-Colleagues&type=date&legend=top-left" width="100%" />
   </a>
 </p>
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Virtual-AI-Colleagues&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Virtual-AI-Colleagues&type=date&legend=top-left)
+

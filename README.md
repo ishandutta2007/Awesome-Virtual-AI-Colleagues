@@ -74,7 +74,7 @@ The following table presents leading enterprise and self-serve SaaS platforms fo
 
 For engineering teams seeking **complete data sovereignty**, **custom multi-agent architectures**, and **zero per-seat licensing**, the open-source ecosystem offers battle-tested frameworks. 
 
-The table below is sorted in **descending order by GitHub Stars_Count**:
+The table below is sorted in **descending order by GitHub_Stars_Count**:
 
 | 💻 Repository | 🌟 GitHub_Stars | 📜 License | 🏗️ Architecture & Primary Focus |
 | :--- | :---: | :---: | :--- |
@@ -159,7 +159,7 @@ Contributions are welcome and vital to maintaining this directory!
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` following the existing tabular and detailed formatting guidelines.
-3. 🔎 **Verify**: Ensure links are official, pricing is specific, free-tier/trial terms are accurate, and GitHub Stars_Counts are verified.
+3. 🔎 **Verify**: Ensure links are official, pricing is specific, free-tier/trial terms are accurate, and GitHub_Stars_Counts are verified.
 4. 🚀 **Submit PR** with a concise description of what was added or updated.
 
 ---

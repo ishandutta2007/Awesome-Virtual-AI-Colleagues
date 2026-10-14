@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.siields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Virtual-AI-Colleagues/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Virtual-AI-Colleagues?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Virtual-AI-Colleagues/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Virtual-AI-Colleagues?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Virtual-AI-Colleagues/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Virtual-AI-Colleagues?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Virtual-AI-Colleagues/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Virtual-AI-Colleagues/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
@@ -74,9 +74,9 @@ The following table presents leading enterprise and self-serve SaaS platforms fo
 
 For engineering teams seeking **complete data sovereignty**, **custom multi-agent architectures**, and **zero per-seat licensing**, the open-source ecosystem offers battle-tested frameworks. 
 
-The table below is sorted in **descending order by GitHub star count**:
+The table below is sorted in **descending order by GitHub Stars_Count**:
 
-| 💻 Repository | 🌟 Stars | 📜 License | 🏗️ Architecture & Primary Focus |
+| 💻 Repository | 🌟 GitHub_Stars | 📜 License | 🏗️ Architecture & Primary Focus |
 | :--- | :---: | :---: | :--- |
 | **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | MIT | General-purpose autonomous agent platform, agent protocol, modular blocks |
 | **[Dify](https://github.com/langgenius/dify)** | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | Apache-2.0 | Production-grade LLM application & multi-agent workflow orchestration platform |
@@ -159,7 +159,7 @@ Contributions are welcome and vital to maintaining this directory!
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` following the existing tabular and detailed formatting guidelines.
-3. 🔎 **Verify**: Ensure links are official, pricing is specific, free-tier/trial terms are accurate, and GitHub star counts are verified.
+3. 🔎 **Verify**: Ensure links are official, pricing is specific, free-tier/trial terms are accurate, and GitHub Stars_Counts are verified.
 4. 🚀 **Submit PR** with a concise description of what was added or updated.
 
 ---
@@ -203,3 +203,12 @@ If you found this ecosystem directory valuable for your research, team, or proje
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Virtual-AI-Colleagues&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Virtual-AI-Colleagues&type=date&legend=top-left)
 
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Virtual-AI-Colleagues&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Virtual-AI-Colleagues_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Virtual-AI-Colleagues_growth.svg">
+  </picture>
+</a>
